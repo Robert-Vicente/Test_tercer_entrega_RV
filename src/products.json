@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "auto",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/auto.png",
+    "code": "2",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "celular",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/celular.png",
+    "code": "4",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "escritorio",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/escritorio.png",
+    "code": "5",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "teclado",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/teclado.png",
+    "code": "6",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "cocina",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/cocina.png",
+    "code": "7",
+    "stock": 5
+  },
+  {
+    "id": 6,
+    "title": "tablet",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/monitor.png",
+    "code": "8",
+    "stock": 5
+  },
+  {
+    "id": 7,
+    "title": "heladera",
+    "description": "nuevo",
+    "price": "5000",
+    "thumbnail": "/images/heladera.png",
+    "code": "9",
+    "stock": 5
+  }
+]
